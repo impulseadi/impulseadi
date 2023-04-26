@@ -18,7 +18,7 @@
 
 
 
-## Find me around the web 🌎 <a href="https://www.linkedin.com/in/aditya-gupta-a419a9215/"><img align="left" width="150" height="146" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lamp%20shift.gif"></a>
+## Find me around the web 🌎 <a href="https://www.linkedin.com/in/aditya-gupta-a419a9215/"><img align="left" width="200" height="146" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lamp%20shift.gif"></a>
 - Struggling on <a href="https://www.leetcode.com/impulseadi/">LeetCode</a> 😍
 - Practising on <a href="https://www.codeforces.com/profile/impulseadi/">Codeforces</a> 🙃
 - Sharing updates on <a href="https://www.linkedin.com/in/aditya-gupta-a419a9215/">LinkedIn</a> 😇
