@@ -5,7 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/impulseadi?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=impulseadi&color=brightgreen">  
 
-
+![Header](./github-header-image.png)
 
 ## 👨🏻‍💻 &nbsp;About Me
 
