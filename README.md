@@ -1,11 +1,11 @@
 # Hi, I'm Aditya👋🏾 👩🏾‍💻
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Adigupta951?label=Follow)](https://twitter.com/intent/follow?screen_name=Adigupta951)
-[![Linkedin: Tanya](https://img.shields.io/badge/-Tanya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-gupta-a419a9215/)](https://www.linkedin.com/in/aditya-gupta-a419a9215/)
+[![Linkedin: Aditya](https://img.shields.io/badge/-Tanya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-gupta-a419a9215/)](https://www.linkedin.com/in/aditya-gupta-a419a9215/)
 ![GitHub followers](https://img.shields.io/github/followers/impulseadi?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=impulseadi&color=brightgreen">  
 
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://user-images.githubusercontent.com/61904667/146429293-82261303-fec5-4828-aeba-047883c76f02.png)
+![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://www.linkedin.com/in/aditya-gupta-a419a9215/overlay/background-image/)
 
 
 ## 👨🏻‍💻 &nbsp;About Me
