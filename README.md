@@ -1,4 +1,4 @@
-# Hi, I'm Aditya👋🏾 
+# Hi, I'm Aditya👋💻
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Adigupta951?label=Follow)](https://twitter.com/intent/follow?screen_name=Adigupta951)
 [![Linkedin: Aditya](https://img.shields.io/badge/-Aditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-gupta-a419a9215/)](https://www.linkedin.com/in/aditya-gupta-a419a9215/)
