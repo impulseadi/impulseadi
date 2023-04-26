@@ -5,7 +5,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/impulseadi?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=impulseadi&color=brightgreen">  
 
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://www.linkedin.com/in/aditya-gupta-a419a9215/overlay/background-image/)
 
 
 ## 👨🏻‍💻 &nbsp;About Me
