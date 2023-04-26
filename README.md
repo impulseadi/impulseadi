@@ -1,6 +1,4 @@
 
-
-preview
 <h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
 <h3 align="center">A passionate developer who is interested in the field of web development and have made projects in the field of same. I am also practicing Data Structures and Algorithms and solved around 500+ problems across all coding platforms.</h3>
 
