@@ -1,7 +1,7 @@
 # Hi, I'm Aditya👋🏾 👩🏾‍💻
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Adigupta951?label=Follow)](https://twitter.com/intent/follow?screen_name=Adigupta951)
-[![Linkedin: Aditya](https://img.shields.io/badge/-Tanya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-gupta-a419a9215/)](https://www.linkedin.com/in/aditya-gupta-a419a9215/)
+[![Linkedin: Aditya](https://img.shields.io/badge/-Aditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-gupta-a419a9215/)](https://www.linkedin.com/in/aditya-gupta-a419a9215/)
 ![GitHub followers](https://img.shields.io/github/followers/impulseadi?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=impulseadi&color=brightgreen">  
 
@@ -18,7 +18,7 @@
 
 
 
-## Find me around the web 🌎 <a href="https://www.linkedin.com/in/aditya-gupta-a419a9215/"><img align="left" width="250" height="200" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lamp%20shift.gif"></a>
+## Find me around the web 🌎 <a href="https://www.linkedin.com/in/aditya-gupta-a419a9215/"><img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" /></a>
 
 - Struggling on <a href="https://www.leetcode.com/impulseadi/">LeetCode</a> 😍
 - Practising on <a href="https://www.codeforces.com/profile/impulseadi/">Codeforces</a> 🙃
