@@ -13,7 +13,7 @@
 
 🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at JSS Academy Of Technical Education, Noida.\
 💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS.\
-🌱 &nbsp;I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.\
+🌱 &nbsp;I'm on track for learning more about Backend Development, Systems Design, and Algorithms.\
 ✉️ &nbsp;You can shoot me an email at adigupta.951@gmail.com! I'll try to respond as soon as I can.
 
 
