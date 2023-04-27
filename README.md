@@ -23,5 +23,6 @@
 - Struggling on <a href="https://www.leetcode.com/impulseadi/">LeetCode</a> 😍
 - Practising on <a href="https://www.codeforces.com/profile/impulseadi/">Codeforces</a> 🙃
 -  Practising on <a href="https://www.codechef.com/users/impulseadi09">Codechef</a> 🙃
+-  Here's my Resume <a href="https://teal-tobi-40.tiiny.site">Resume</a>
 - Sharing updates on <a href="https://www.linkedin.com/in/aditya-gupta-a419a9215/">LinkedIn</a> 😇
 
