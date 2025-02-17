@@ -20,8 +20,8 @@
 
 Here are some of my live projects that you can check out:
 
-- [AI Image Generation SaaS](https://imagify-frontend-gnsc.onrender.com/) - A full-stack AI SaaS application using MongoDB, Express, React, and Node.js. It generates AI images from text prompts using the Clipdrop API.
 - [Job Application Portal](https://job-portal-client-git-main-impulseadis-projects.vercel.app/) - A portal where users can apply for jobs and manage their applications also recruiter can post various jobs and manage candidates applications.
+- [AI Image Generation SaaS](https://imagify-frontend-gnsc.onrender.com/) - A full-stack AI SaaS application using MongoDB, Express, React, and Node.js. It generates AI images from text prompts using the Clipdrop API.
 - [ReactJs Dice Game](https://timely-belekoy-5b7add.netlify.app/) - A dice game where user can play dice game with a core game concept.
 
 
