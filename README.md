@@ -30,6 +30,6 @@ Here are some of my live projects that you can check out:
 - Struggling on <a href="https://www.leetcode.com/impulseadi/">LeetCode</a> 😍
 - Practising on <a href="https://www.codeforces.com/profile/impulseadi/">Codeforces</a> 🙃
 -  Practising on <a href="https://www.codechef.com/users/impulseadi09">Codechef</a> 🙃
--  Here's my <a href="https://teal-tobi-40.tiiny.site">Resume</a>
+-  Here's my <a (https://drive.google.com/file/d/1k2Le6hVg1R_6unLgLNtI5AyuLdqPFAW0/view?usp=sharing)">Resume</a>
 - Sharing updates on <a href="https://www.linkedin.com/in/aditya-gupta-a419a9215/">LinkedIn</a> 😇
 
