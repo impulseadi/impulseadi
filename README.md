@@ -11,7 +11,7 @@
 
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" align="right"/>
 
-🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at JSS Academy Of Technical Education, Noida.\
+🎓 &nbsp;I'm 2024 graduate in Electronics and Communication Engineering from JSS Academy Of Technical Education, Noida.\
 💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS.\
 🌱 &nbsp;I'm on track for learning more about Backend Development, Systems Design, and Algorithms.\
 ✉️ &nbsp;You can shoot me an email at adigupta.951@gmail.com! I'll try to respond as soon as I can.
