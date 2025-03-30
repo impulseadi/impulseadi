@@ -12,8 +12,8 @@
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" align="right"/>
 
 🎓 &nbsp;I'm 2024 graduate in Electronics and Communication Engineering from JSS Academy Of Technical Education, Noida.\
-💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS.\
-🌱 &nbsp;I'm on track for learning more about Backend Development, Systems Design, and Algorithms.\
+💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS and MongoDB.
+💡 &nbsp;Portfolio site(https://minimalist-portfolio-phi.vercel.app/)
 ✉️ &nbsp;You can shoot me an email at adigupta.951@gmail.com! I'll try to respond as soon as I can.
 
 ## 🚀 Live Projects
@@ -28,7 +28,7 @@ Here are some of my live projects that you can check out:
 ## Find me around the web 🌎 <a href="https://www.linkedin.com/in/aditya-gupta-a419a9215/"></a>
 
 - Struggling on <a href="https://www.leetcode.com/impulseadi/">LeetCode</a> 😍
-- Portfolio website <a href="https://portfolio-cqx2.vercel.app/"> Portfolio</a>
+- Portfolio website <a href="https://minimalist-portfolio-phi.vercel.app/"> Portfolio</a>
 - Practising on <a href="https://www.codeforces.com/profile/impulseadi/">Codeforces</a> 🙃
 -  Practising on <a href="https://www.codechef.com/users/impulseadi09">Codechef</a> 🙃
 -  Here's my <a href="https://drive.google.com/file/d/1k2Le6hVg1R_6unLgLNtI5AyuLdqPFAW0/view?usp=sharing">Resume</a>
