@@ -13,7 +13,7 @@
 
 🎓 &nbsp;I'm 2024 graduate in Electronics and Communication Engineering from JSS Academy Of Technical Education, Noida.\
 💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS and MongoDB.\
-💡 &nbsp;Portfolio site(https://minimalist-portfolio-phi.vercel.app/).\
+💡 &nbsp;Portfolio site(https://minimalist-portfolio-phi.vercel.app/). \
 ✉️ &nbsp;You can shoot me an email at adigupta.951@gmail.com! I'll try to respond as soon as I can.
 
 ## 🚀 Live Projects
